@@ -36,7 +36,7 @@ B-Tree and other DB algorithms
 Principal Component Analysis (PCA)
 
 Dynamic Programming
-  subsequence
+  common subsequence
 Reinforcement Learning
 String Matching
 
@@ -49,6 +49,7 @@ https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
 RSA Encryption Algo and the Diffie Hellman Key exchange
 
+Regular Expressions and Parsing (LISP)
 
 -----------
 
@@ -59,7 +60,7 @@ Distributed Process Mining
 Distributed ML
 Image Processing
 Graphics 
-Parsing for Compiler 
+Compilers 
 
 --------------
 
