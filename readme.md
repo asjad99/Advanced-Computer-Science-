@@ -1,4 +1,4 @@
-List of Algorithms (in no Particular order)
+# List of Algorithms (in no Particular order)
 
 
 Search (A*)
