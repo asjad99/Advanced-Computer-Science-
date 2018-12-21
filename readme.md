@@ -21,10 +21,6 @@ MAXSAT Solver
 
 BackPropogation
 
-distributed Process Mining
-
-distributed ML
-
 SVD: http://www.uwlax.edu/faculty/will/svd/index.html
 
 Fast Fourier transform (FFT)
@@ -36,11 +32,19 @@ Principal Component Analysis (PCA)
 
 Reinforcement Learning
 
+Random number generation
 Testing for Random Numbers
 
 LZ Compression algorithms 
+https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
  RSA Encryption Algo and the Diffie Hellman Key exchange
+ 
+Distributed Computing
+Distributed Process Mining
+Distributed ML
+Image Processing
+Graphics 
 
 ----
 
@@ -139,3 +143,5 @@ https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x
 https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
 
 https://blog.codinghorror.com/classic-computer-science-puzzles/
+
+https://www.quora.com/What-are-some-amazing-computer-science-algorithms
