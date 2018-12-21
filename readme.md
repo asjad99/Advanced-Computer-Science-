@@ -35,7 +35,11 @@ B-Tree and other DB algorithms
 
 Principal Component Analysis (PCA)
 
+Dynamic Programming
+  subsequence
 Reinforcement Learning
+String Matching
+
 
 Random number generation
 Testing for Random Numbers
@@ -43,15 +47,21 @@ Testing for Random Numbers
 LZ Compression algorithms 
 https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
- RSA Encryption Algo and the Diffie Hellman Key exchange
- 
+RSA Encryption Algo and the Diffie Hellman Key exchange
+
+
+-----------
+
+Computational Geometry
+Multi-threaded algorithms - Operating Systems
 Distributed Computing
 Distributed Process Mining
 Distributed ML
 Image Processing
 Graphics 
+Parsing for Compiler 
 
-----
+--------------
 
 ## Modern hashing. 
 
@@ -150,3 +160,5 @@ https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-co
 https://blog.codinghorror.com/classic-computer-science-puzzles/
 
 https://www.quora.com/What-are-some-amazing-computer-science-algorithms
+
+
