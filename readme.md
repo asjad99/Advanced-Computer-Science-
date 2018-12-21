@@ -1,7 +1,17 @@
 # List of Algorithms (in no Particular order)
 
 
-Search (A*)
+Euclidean algorithm for GCD
+
+Strassen’s algorithm for Matrix multiplication
+
+Binary search
+
+Merge Sort 
+
+Search (A*) 
+   Traveling Salesman Problem
+   Dijkstra’s algorithm 
 
 Game Tree Search(MINIMAX AND MCTS)
 
@@ -15,12 +25,22 @@ distributed Process Mining
 
 distributed ML
 
+SVD: http://www.uwlax.edu/faculty/will/svd/index.html
+
+Fast Fourier transform (FFT)
+ 
 B-Tree and other DB algorithms
    reference: http://shop.oreilly.com/product/0636920032175.do
 
 Principal Component Analysis (PCA)
 
 Reinforcement Learning
+
+Testing for Random Numbers
+
+LZ Compression algorithms 
+
+ RSA Encryption Algo and the Diffie Hellman Key exchange
 
 ----
 
@@ -115,3 +135,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-i
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
 
 https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7
+
+https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
+
+https://blog.codinghorror.com/classic-computer-science-puzzles/
