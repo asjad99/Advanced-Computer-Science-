@@ -1,7 +1,12 @@
+
 # List of Algorithms (in no Particular order)
 
 
 Euclidean algorithm for GCD
+   "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day."
+
+Donald Knuth, The Art of Computer Programming, Vol. 2: Seminumerical Algorithms, 2nd edition (1981), p. 318.
+
 
 Strassen’s algorithm for Matrix multiplication
 
