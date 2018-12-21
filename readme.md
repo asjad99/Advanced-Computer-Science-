@@ -2,17 +2,25 @@ List of Algorithms (in no Particular order)
 
 
 Search (A*)
+
 Game Tree Search(MINIMAX AND MCTS)
+
 SAT SOLVER
+
 MAXSAT Solver
+
 BackPropogation
+
 distributed Process Mining
+
 distributed ML
+
 B-Tree and other DB algorithms
    reference: http://shop.oreilly.com/product/0636920032175.do
+
 Principal Component Analysis (PCA)
 
-
+Reinforcement Learning
 
 ----
 
