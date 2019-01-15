@@ -162,6 +162,7 @@ https://blog.codinghorror.com/classic-computer-science-puzzles/
 
 https://www.quora.com/What-are-some-amazing-computer-science-algorithms
 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm
 
 Books: 
    - Artificial Intelligence: A Modern Approach
