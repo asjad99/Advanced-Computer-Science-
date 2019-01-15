@@ -164,18 +164,18 @@ https://www.quora.com/What-are-some-amazing-computer-science-algorithms
 
 
 Books: 
-   Artificial Intelligence: A Modern Approach
-   Introduction to information Retreival 
-   Designing data Intensive Applications
-   https://nlp.stanford.edu/manning/
-   Introduction to Computation and Programming Using Python: With Application to Understanding Data
-   https://composingprograms.com/
-   Decision Making Under Uncertainty (MIT Press)
-   Reinforcement Learning by Sutton And Barto
-   Intro to Statistical Learning
-   Algorithms for Optimization
-   Computer Age Statistical Inference: Algorithms, Evidence, and Data Science 
-   Data Science from Scratch
-   Linear Algebra and Learning from Data
+   - Artificial Intelligence: A Modern Approach
+   - Introduction to information Retreival 
+   - Designing data Intensive Applications
+   - https://nlp.stanford.edu/manning/
+   - Introduction to Computation and Programming Using Python: With Application to Understanding Data
+   - https://composingprograms.com/
+   - Decision Making Under Uncertainty (MIT Press)
+   - Reinforcement Learning by Sutton And Barto
+   - Intro to Statistical Learning
+   - Algorithms for Optimization
+   - Computer Age Statistical Inference: Algorithms, Evidence, and Data Science 
+   - Data Science from Scratch
+   - Linear Algebra and Learning from Data
 
 
