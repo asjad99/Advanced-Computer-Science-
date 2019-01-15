@@ -177,5 +177,6 @@ Books:
    - Computer Age Statistical Inference: Algorithms, Evidence, and Data Science 
    - Data Science from Scratch
    - Linear Algebra and Learning from Data
+   - Foundations of Data Science
 
 
