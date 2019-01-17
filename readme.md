@@ -142,6 +142,9 @@ signal from amazingly few “linear measurements.”
 
 
 Sources: 
+
+https://www.quora.com/Can-you-describe-the-beauty-of-algorithms
+
 https://www.coursera.org/specializations/algorithms
 
 http://aima.cs.berkeley.edu/
@@ -150,12 +153,6 @@ https://github.com/norvig/pytudes
 
 http://web.stanford.edu/class/cs168/index.html
 
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/
-
-https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-7
-
 https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
 
 https://blog.codinghorror.com/classic-computer-science-puzzles/
@@ -163,6 +160,8 @@ https://blog.codinghorror.com/classic-computer-science-puzzles/
 https://www.quora.com/What-are-some-amazing-computer-science-algorithms
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm
+
+
 
 Books: 
    - Artificial Intelligence: A Modern Approach
