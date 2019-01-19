@@ -1,5 +1,8 @@
 
-# List of Algorithms (in no Particular order)
+
+
+
+## List of Algorithms (in no Particular order)
 
 
 Euclidean algorithm for GCD
@@ -8,76 +11,53 @@ Euclidean algorithm for GCD
 Donald Knuth, The Art of Computer Programming, Vol. 2: Seminumerical Algorithms, 2nd edition (1981), p. 318.
 
 
+### Classic CS
 Strassen’s algorithm for Matrix multiplication
-
+String Matching
 Binary search
-
 Merge Sort 
+Fast Fourier transform (FFT)
+Dynamic Programming
+  common subsequence
+Random number generation
+Testing for Random Numbers
+RSA Encryption Algo and the Diffie Hellman Key exchange
+Regular Expressions and Parsing (LISP)
+LZ Compression algorithms 
+https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
+### Classic AI
 Search (A*) 
    Traveling Salesman Problem
    Dijkstra’s algorithm 
 
 Game Tree Search(MINIMAX AND MCTS)
-
 SAT SOLVER
-
 MAXSAT Solver
 
 BackPropogation
 
+### Data 
 SVD: http://www.uwlax.edu/faculty/will/svd/index.html
-
-Fast Fourier transform (FFT)
- 
-B-Tree and other DB algorithms
-   reference: http://shop.oreilly.com/product/0636920032175.do
-
 Principal Component Analysis (PCA)
 
-Dynamic Programming
-  common subsequence
-Reinforcement Learning
-String Matching
-
-
-Random number generation
-Testing for Random Numbers
-
-LZ Compression algorithms 
-https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
-
-RSA Encryption Algo and the Diffie Hellman Key exchange
-
-Regular Expressions and Parsing (LISP)
-
------------
-
-Computational Geometry
-Multi-threaded algorithms - Operating Systems
-Distributed Computing
-Distributed Process Mining
-Distributed ML
-Image Processing
-Graphics 
-Compilers 
 
 --------------
 
-## Modern hashing. 
+#### Modern hashing. 
 
 we’ll discuss how hash functions can be used to perform “lossy compression” through
 data structures like bloom filters and count-min sketches. The goal is to compress a
 data set while approximately preserving properties such as set membership or frequency
 counts.
 
-## The nearest neighbor problem and dimension reduction. 
+#### The nearest neighbor problem and dimension reduction. 
 
 Dimension reduction continues the theme of lossy compression: it’s about compressing data while approximately
 preserving similarity information (represented using distances). In the nearest neighbor problem, you are given a point set (e.g., representing documents) and want to preprocess it so that, given a query (e.g., representing a keyword search query), you can quickly determine which point is closest to the query. This problem offers our first
 method of understanding and exploring a data set.
 
-## Generalization, regularization, and all that. 
+#### Generalization, regularization, and all that. 
 
 The next topic is motivated by issues in
 machine learning. You’re probably at least vaguely familiar with the idea of using
@@ -97,7 +77,7 @@ of “simpler” ones. This is a version of Occam’s Razor, which advocates acc
 simplest theory that explains the known observations.
 
 
-## Linear algebra and spectral techniques. 
+#### Linear algebra and spectral techniques. 
 
 One could also call this topic “the unreasonable effectiveness of
 sophomore-level linear algebra.” This is a major topic, and it will
@@ -115,7 +95,7 @@ have shockingly meaningful interpretations in network data. Linear algebra is a 
 real-world applications we provide will bring the subject to life
 
 
-## Sampling and estimation. 
+#### Sampling and estimation. 
 
 It’s often useful to view a data set as a sample from some
 distribution or population. How many samples are necessary and sufficient before you
@@ -133,7 +113,7 @@ into a “dual” representation, which rephrases the data in terms of patterns 
 across time or across space. This is the point of the Fourier transform and other
 similar-in-spirit transforms.
 
-## Mathematical programming. 
+#### Mathematical programming. 
 Many optimization and data analysis problems can be solved using linear, 
 integer, or convex programming. These days, there are powerful
 solvers at your disposal that can be used to attack such problems. We’ll study the
@@ -141,7 +121,18 @@ representative application of compressive sensing, which allows you to recover a
 signal from amazingly few “linear measurements.”
 
 
-Sources: 
+
+### Data Structures that power Modern DB systems
+
+Hash Table
+Sorted String Table
+B-Trees
+Log-Structured Merge-Tree (LSM-Tree)
+
+reference: http://shop.oreilly.com/product/0636920032175.do
+
+
+### Interesting Links: 
 
 https://www.quora.com/Can-you-describe-the-beauty-of-algorithms
 
@@ -163,7 +154,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-i
 
 
 
-Books: 
+### Books: 
    - Artificial Intelligence: A Modern Approach
    - Introduction to information Retreival 
    - Designing data Intensive Applications
@@ -179,4 +170,17 @@ Books:
    - Linear Algebra and Learning from Data
    - Foundations of Data Science
 
+
+-----------
+
+### Interesting Areas
+
+Computational Geometry
+Multi-threaded algorithms - Operating Systems
+Distributed Computing
+Distributed Process Mining
+Distributed ML
+Image Processing
+Graphics 
+Compilers 
 
