@@ -12,34 +12,37 @@ Donald Knuth, The Art of Computer Programming, Vol. 2: Seminumerical Algorithms,
 
 
 ### Classic CS
-Strassen’s algorithm for Matrix multiplication
-String Matching
-Binary search
-Merge Sort 
-Fast Fourier transform (FFT)
-Dynamic Programming
-  common subsequence
-Random number generation
-Testing for Random Numbers
-RSA Encryption Algo and the Diffie Hellman Key exchange
-Regular Expressions and Parsing (LISP)
-LZ Compression algorithms 
-https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
+
+1. Strassen’s algorithm for Matrix multiplication
+2. String Matching
+3. Binary search
+4. Merge Sort 
+5. Fast Fourier transform (FFT)
+6. Dynamic Programming
+      common subsequence
+7. Random number generation
+8. Testing for Random Numbers
+9. RSA Encryption Algo and the Diffie Hellman Key exchange
+10. Regular Expressions and Parsing (LISP)
+11. LZ Compression algorithms 
+      https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
 
 ### Classic AI
-Search (A*) 
-   Traveling Salesman Problem
-   Dijkstra’s algorithm 
 
-Game Tree Search(MINIMAX AND MCTS)
-SAT SOLVER
-MAXSAT Solver
+- Search (A*) 
+   -- Traveling Salesman Problem
+   -- Dijkstra’s algorithm 
 
-BackPropogation
+- Game Tree Search(MINIMAX AND MCTS)
+- SAT SOLVER
+- MAXSAT Solver
+
+- BackPropogation
 
 ### Data 
-SVD: http://www.uwlax.edu/faculty/will/svd/index.html
-Principal Component Analysis (PCA)
+
+-  SVD: http://www.uwlax.edu/faculty/will/svd/index.html
+- Principal Component Analysis (PCA)
 
 
 --------------
