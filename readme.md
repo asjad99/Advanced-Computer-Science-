@@ -127,10 +127,10 @@ signal from amazingly few “linear measurements.”
 
 ### Data Structures that power Modern DB systems
 
-Hash Table
-Sorted String Table
-B-Trees
-Log-Structured Merge-Tree (LSM-Tree)
+1. Hash Table
+2. Sorted String Table
+3. B-Trees
+4. Log-Structured Merge-Tree (LSM-Tree)
 
 reference: http://shop.oreilly.com/product/0636920032175.do
 
@@ -178,12 +178,12 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-i
 
 ### Interesting Areas
 
-Computational Geometry
-Multi-threaded algorithms - Operating Systems
-Distributed Computing
-Distributed Process Mining
-Distributed ML
-Image Processing
-Graphics 
-Compilers 
+- Computational Geometry
+- Multi-threaded algorithms - Operating Systems
+- Distributed Computing
+- Distributed Process Mining
+- Distributed ML
+- Image Processing
+- Graphics 
+- Compilers 
 
