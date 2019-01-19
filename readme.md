@@ -172,6 +172,9 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-i
    - Data Science from Scratch
    - Linear Algebra and Learning from Data
    - Foundations of Data Science
+   
+   - Python Data Science Handbook
+   - Data Science from scratch
 
 
 -----------
