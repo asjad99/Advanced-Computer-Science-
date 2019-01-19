@@ -175,6 +175,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-i
    
    - Python Data Science Handbook
    - Data Science from scratch
+   - Statistics for data scienstists
 
 
 -----------
