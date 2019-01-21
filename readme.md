@@ -2,7 +2,7 @@
 
 http://bigocheatsheet.com/
 
-
+https://keon.io/computer-scientists-trivia/
 
 ## List of Algorithms (in no Particular order)
 
@@ -38,14 +38,14 @@ Donald Knuth, The Art of Computer Programming, Vol. 2: Seminumerical Algorithms,
 - Game Tree Search(MINIMAX AND MCTS)
 - SAT SOLVER
 - MAXSAT Solver
-
 - BackPropogation
 
 ### Data 
 
 -  SVD: http://www.uwlax.edu/faculty/will/svd/index.html
 - Principal Component Analysis (PCA)
-
+- Monte Carlo Simulation
+- Process Mining
 
 --------------
 
