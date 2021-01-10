@@ -1,37 +1,101 @@
    "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
 
 
+What is Computer Science? 
 
+
+> Knuth (1974b) said that CS is the study of algorithms and surrounding phenomena such as the computers that they run on. CS is the the study both of algorithms and of the computers that execute them. 
+
+
+CS can have multiple definitions: 
+
+    - natural science of procedure 
+    - “artificial science” (as opposed to the “natural science”) of the phenomena surrounding computers
+    - CS is the study of how to represent and process information and of the machines and systems that do this
+    - said that it is a new kind of science (neither a physical, a biological, nor a social science) of natural and artificial information processes
+    - Loui (1987) suggested that CS is a new kind of engineering that studies the theory, design, analysis, and implementation of information-processing algorithms
+    - "CS is “a sort of spectrum . . . with ‘science’ on the one end and ‘engineering’ on the other” 
+
+If we want to pick one then we can settle on the following: 
+
+> CS is the scientific study of what problems can be solved, what tasks can be accomplished, and what features of the world can be understood “computationally”—that is, using the minimal language of a Turing Machine—and then to provide algorithms to show how this can be done efficiently, practically, physically, and ethically. 
+
+
+Theoratical Computer Science concerns itself with the following questions: 
+
+0. What is computation? 
+1. What can be computed, and how? 
+2. What can be computed efficiently, and how? 
+3. What can be computed practically, and how? 
+4. What can be computed physically, and how? 
+5. What can be computed ethically, and how?
+
+
+Great Ideas/Insights of CS: 
+
+   - A (programmable) computer is a physically plausible implementation of anything logically equivalent to a universal Turing machine.
+
+   - An automaton (plural: automata) is a mathematical model of a computing device.
+
+   - Turing machines are an abstraction of computers with unbounded resources.
+
+   - Finite automata are an abstraction of computers with finite resource constraints.
+   
+   - DFAs are the simplest type of automaton
+
+That “minimal language” can be described by four “great insights of CS”: 
+
+1. The representational insight: Only two nouns are needed to express any algorithm. 
+
+
+> All the information about any computable problem can be represented using only two nouns: ‘0’ and ‘1’
+
+Up until that time [that is, the time of publication of Shannon’s “Mathematical
+Theory of Communication” (Shannon, 1948)], everyone thought that communication was involved in trying to find ways of communicating written language, spoken language, pictures, video, and all of these different things— that all of these would require different ways of communicating. Claude said
+no, you can turn all of them into binary digits. And then you can find ways
+of communicating the binary digits. (Robert Gallager, quoted in Soni and
+Goodman 2017)
+
+
+2. The processing insight: Only three verbs are needed. 
+
+3. The structural insight: Only three rules of grammar are needed. 
+
+4. A “closure” insight: Nothing else is needed. This is the import of the ChurchTuring Computability Thesis that anything logically equivalent to a Turing Machine (or the lambda calculus, or recursive functions, or . . . ) suffices for computation.
+
+
+And there is a fifth insight that links this abstract language to computers: 
+
+5. The implementation insight: Algorithms can be carried out by physical devices
+---------------------------------------------------------------
 
 ### Graph Algorithms 
 
-Storage and representation of graphs (networks) on a computer
-Common graph theory problems
-Breadth first search algorithm
-Depth first search algorithm
-Various tree algorithms including: the height or a tree, finding the center of a tree, rooting a tree, and etc...
-Dijkstra's algorithm
-Topological sort algorithm
-Shortest/longest path on a acyclic graph
-Bellman Ford's algorithm
-Floyd-Warshall all pairs shortest path algorithm
-Finding bridges/articulation points
-Finding strongly connected components (Tarjan's)
-Travelling salesman problem (TSP)
-How to find the maximum flow of a flow graph
-Finding bipartite graph matchings
-Various network flow algorithms including: Edmonds-Karp, Capacity Scaling, and Dinic's algorithm
-Kruskal's Minimum Spanning Tree algorithm
-The Lowest Common Ancestor (LCA) Problem
+Introduction to graph algorithms 
+      Storage and representation of graphs (networks) on a computer
+      Common graph theory problems
+      Breadth first search algorithm
+      Depth first search algorithm
 
+| Algorithm                | Code | 
+|--------------------------|------|
+| Dijkstra's algorithm     |      |
+| Topological sort                        |      |
+|  \Shortest/longest path on a acyclic graph                         |      |
+| Bellman Ford's algorithm                         |      |
+| Floyd-Warshall all pairs shortest path algorithm |     |
+| Finding bridges/articulation points             |     | 
+| Finding strongly connected components (Tarjan's) |   | 
+|  Travelling salesman problem (TSP)   |    |
+
+
+-----------------------------------------------------------------------------
 
 
 ## Useful Data Algorithms for Building Data Products 
 
 A data product provides actionable information without exposing decision makers to the underlying
 data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
-
-
 
 
 ### Data Mining Algorithms 
@@ -55,95 +119,4 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Compressive sensing                           |                                                                                           |
 | Linear and convex programming                 |                                                                                           |
 
-
-https://blog.fastforwardlabs.com/2020/01/29/a-symbiotic-relationship-knowledge-graphs-machine-learning.html
-
-### Classic AI algorithms
-
-- Search (A*) 
-   -- Traveling Salesman Problem
-   -- Dijkstra’s algorithm 
-
-- Game Tree Search(MINIMAX AND MCTS)
-- SAT SOLVER
-- MAXSAT Solver
-- BackPropogation
-
-### Classic CS
-
-1. Strassen’s algorithm for Matrix multiplication
-2. String Matching
-3. Binary search
-4. Merge Sort 
-5. Fast Fourier transform (FFT)
-6. Dynamic Programming
-      common subsequence
-7. Random number generation
-8. Testing for Random Numbers
-9. RSA Encryption Algo and the Diffie Hellman Key exchange
-10. Regular Expressions and Parsing (LISP)
-11. LZ Compression algorithms 
-      https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
-      
-      
-### Data Structures that power Modern DB systems
-
-1. Hash Table
-2. Sorted String Table
-3. B-Trees
-4. Log-Structured Merge-Tree (LSM-Tree)
-
-reference: http://shop.oreilly.com/product/0636920032175.do
-
-----------------------------------------------------------------------
-
-
-## ALgorithm Analysis Cheat Sheet: 
-
-http://bigocheatsheet.com/
-
-https://keon.io/computer-scientists-trivia/
-
-
-### Interesting Links: 
-
-https://www.quora.com/Can-you-describe-the-beauty-of-algorithms
-
-https://www.coursera.org/specializations/algorithms
-
-http://aima.cs.berkeley.edu/
-
-https://github.com/norvig/pytudes
-
-http://web.stanford.edu/class/cs168/index.html
-
-https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac
-
-https://blog.codinghorror.com/classic-computer-science-puzzles/
-
-https://www.quora.com/What-are-some-amazing-computer-science-algorithms
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm
-
-
-
-### Books: 
-   - Artificial Intelligence: A Modern Approach
-   - Introduction to information Retreival 
-   - Designing data Intensive Applications
-   - https://nlp.stanford.edu/manning/
-   - Introduction to Computation and Programming Using Python: With Application to Understanding Data
-   - https://composingprograms.com/
-   - Decision Making Under Uncertainty (MIT Press)
-   - Reinforcement Learning by Sutton And Barto
-   - Intro to Statistical Learning
-   - Algorithms for Optimization
-   - Computer Age Statistical Inference: Algorithms, Evidence, and Data Science 
-   - Data Science from Scratch
-   - Linear Algebra and Learning from Data
-   - Foundations of Data Science
-   
-   - Python Data Science Handbook
-   - Data Science from scratch
-   - Statistics for data scienstists
-
+-----------------------------------------------------------------------------
