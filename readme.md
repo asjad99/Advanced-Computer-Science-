@@ -1,10 +1,38 @@
    "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
 
 
+
+
+### Graph Algorithms 
+
+Storage and representation of graphs (networks) on a computer
+Common graph theory problems
+Breadth first search algorithm
+Depth first search algorithm
+Various tree algorithms including: the height or a tree, finding the center of a tree, rooting a tree, and etc...
+Dijkstra's algorithm
+Topological sort algorithm
+Shortest/longest path on a acyclic graph
+Bellman Ford's algorithm
+Floyd-Warshall all pairs shortest path algorithm
+Finding bridges/articulation points
+Finding strongly connected components (Tarjan's)
+Travelling salesman problem (TSP)
+How to find the maximum flow of a flow graph
+Finding bipartite graph matchings
+Various network flow algorithms including: Edmonds-Karp, Capacity Scaling, and Dinic's algorithm
+Kruskal's Minimum Spanning Tree algorithm
+The Lowest Common Ancestor (LCA) Problem
+
+
+
 ## Useful Data Algorithms for Building Data Products 
 
 A data product provides actionable information without exposing decision makers to the underlying
 data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
+
+
+
 
 ### Data Mining Algorithms 
 
@@ -26,9 +54,6 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Collaborative Filtering                       |                                                                                           |
 | Compressive sensing                           |                                                                                           |
 | Linear and convex programming                 |                                                                                           |
-
-### Graph algorithms
-
 
 
 https://blog.fastforwardlabs.com/2020/01/29/a-symbiotic-relationship-knowledge-graphs-machine-learning.html
