@@ -1,4 +1,10 @@
-   "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
+"Problem-Solving is a holistic blend of complex skills and finely tuned attitudes. It requires a balance of intutiion and formal rigour, of resilience and creativity. It depends too on collaboration and the ability to see out feedback and act on it. And so much more: certainly too for a single test to do justice.'
+
+
+"[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
+
+
+
 
 
 What is Computer Science? 
@@ -95,7 +101,7 @@ Introduction to graph algorithms
 ## Useful Data Algorithms for Building Data Products 
 
 A data product provides actionable information without exposing decision makers to the underlying
-data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
+data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. 
 
 
 ### Data Mining Algorithms 
