@@ -1,7 +1,7 @@
 
 
 
-What is Computer Science? 
+## What is Computer Science? 
 
 
 > Knuth (1974b) said that CS is the study of algorithms and surrounding phenomena such as the computers that they run on. CS is the the study both of algorithms and of the computers that execute them. 
@@ -21,7 +21,7 @@ If we want to pick one then we can settle on the following:
 > CS is the scientific study of what problems can be solved, what tasks can be accomplished, and what features of the world can be understood “computationally”—that is, using the minimal language of a Turing Machine—and then to provide algorithms to show how this can be done efficiently, practically, physically, and ethically. 
 
 
-Theoratical Computer Science concerns itself with the following questions: 
+## Theoratical Computer Science concerns itself with the following questions: 
 
 0. What is computation? 
 1. What can be computed, and how? 
@@ -31,7 +31,7 @@ Theoratical Computer Science concerns itself with the following questions:
 5. What can be computed ethically, and how?
 
 
-Great Ideas/Insights of CS: 
+## Great Ideas/Insights of CS: 
 
    - A (programmable) computer is a physically plausible implementation of anything logically equivalent to a universal Turing machine.
 
@@ -43,7 +43,7 @@ Great Ideas/Insights of CS:
    
    - DFAs are the simplest type of automaton
 
-That “minimal language” can be described by four “great insights of CS”: 
+### That “minimal language” can be described by four “great insights of CS”: 
 
 1. The representational insight: Only two nouns are needed to express any algorithm. 
 
