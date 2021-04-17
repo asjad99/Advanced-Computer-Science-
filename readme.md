@@ -1,3 +1,6 @@
+
+
+
 What is Computer Science? 
 
 
@@ -64,9 +67,10 @@ Goodman 2017)
 And there is a fifth insight that links this abstract language to computers: 
 
 5. The implementation insight: Algorithms can be carried out by physical devices
+---------------------------------------------------------------
 
-
--------------------------------------------------------------------------------------------------------------
+   "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
+   
 
 ### Useful data Structures 
 
@@ -76,9 +80,6 @@ SSTables and LSM-Trees
 B-Trees
 Comparing B-Trees and LSM-Trees
 Other Indexing Structures
-
-
--------------------------------------------------------------------------------------------------------------
 
 
 ### Graph Algorithms 
@@ -101,8 +102,8 @@ Introduction to graph algorithms
 |  Travelling salesman problem (TSP)   |    |
 
 
+-----------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------------------
 
 ## Useful Data Algorithms for Building Data Products 
 
@@ -143,5 +144,4 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 - SCIP in python: https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 - python env https://jacobian.org/2018/feb/21/python-environment-2018/
 - Cheatsheet https://github.com/gto76/python-cheatsheet?utm_source=hackernewsletter&utm_medium=email&utm_term=code </li
-
 
