@@ -67,10 +67,57 @@ Goodman 2017)
 And there is a fifth insight that links this abstract language to computers: 
 
 5. The implementation insight: Algorithms can be carried out by physical devices
----------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
-   "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
-   
+
+
+
+## Problem Solving and Algorithms 
+
+"Problem-Solving is a holistic blend of complex skills and finely tuned attitudes. It requires a balance of intutiion and formal rigour, of resilience and creativity. It depends too on collaboration and the ability to see out feedback and act on it. And so much more: certainly too for a single test to do justice.'
+
+
+"In its purest form, mathematics is the perfect expression of human thought that marries logic with creative thought". 
+
+"[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
+
+
+Learning the art of solving new problems by mapping them to existing solved problems
+
+"Reduction is a way of converting one problem to another problem in such a way that the solution to the second problem can be used to solve the first problem" - Theory-Of-Computation-Michael-Sipser
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+### Do I really understand the problem?
+(a) What exactly does the input consist of?
+(b) What exactly are the desired results or output?
+(c) Can I construct an input example small enough to solve by hand?
+
+### What happens when I try to solve it?
+(d) How important is it to my application that I always find the optimalanswer? Can I settle for something close to the optimal answer?
+(e) How large is a typical instance of my problem? Will I be working on10items? 1,000 items? 1,000,000 items?
+(f) How important is speed in my application? Must the problem be solved within one second? One minute? One hour? One day?
+(g) How much time and effort can I invest in implementation? Will I belimited to simple algorithms that can be coded up in a day, or do I have thefreedom to experiment with a couple of approaches and see which is best?
+(h) Am I trying to solve a numerical problem? A graph algorithm problem? A geometric problem? A string problem? A set problem? Which formulation seems easiest?
+
+### Can I find a simple algorithm or heuristic for my problem?
+
+(a) Will brute force solve my problem correctly by searching through allsubsets or arrangements and picking the best one?
+    i. If so, why am I sure that this algorithm always gives the correct answer?
+    ii. How do I measure the quality of a solution once I construct it?
+    iii. Doesthis simple, slow solution run in polynomial or exponential time? Is my problemsmall enough that this brute-force solution will suffice?
+    iv. Am I certain that myproblem is sufficiently well defined to actually have a correct solution?
+    
+(b) Can I solve my problem by repeatedly trying some simple rule, likepicking the biggest item first? The smallest item first? A random item first? 
+    i. If so, on what types of inputs does this heuristic work well? Do thesecor-respond to the data that might arise in my application? 
+    ii. On what types of inputs does this heuristic work badly? If no suchexam-ples can be found, can I show that it always works well? 
+    iii. How fast does my heuristic come up with an answer? Does it have a simple implementation?
+
+other hacks 
+    See Cracking the coding interview 
+
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Useful data Structures 
 
