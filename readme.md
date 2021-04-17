@@ -1,14 +1,3 @@
-"Problem-Solving is a holistic blend of complex skills and finely tuned attitudes. It requires a balance of intutiion and formal rigour, of resilience and creativity. It depends too on collaboration and the ability to see out feedback and act on it. And so much more: certainly too for a single test to do justice.'
-
-
-"In its purest form, mathematics is the perfect expression of human thought that marries logic with creative thought". 
-
-"[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
-
-
-
-
-
 What is Computer Science? 
 
 
@@ -75,7 +64,22 @@ Goodman 2017)
 And there is a fifth insight that links this abstract language to computers: 
 
 5. The implementation insight: Algorithms can be carried out by physical devices
----------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------------------------
+
+### Useful data Structures 
+
+
+Hash Indexes
+SSTables and LSM-Trees
+B-Trees
+Comparing B-Trees and LSM-Trees
+Other Indexing Structures
+
+
+-------------------------------------------------------------------------------------------------------------
+
 
 ### Graph Algorithms 
 
@@ -97,13 +101,13 @@ Introduction to graph algorithms
 |  Travelling salesman problem (TSP)   |    |
 
 
------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Useful Data Algorithms for Building Data Products 
 
 A data product provides actionable information without exposing decision makers to the underlying
-data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. 
+data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
 
 
 ### Data Mining Algorithms 
@@ -128,3 +132,16 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Linear and convex programming                 |                                                                                           |
 
 -----------------------------------------------------------------------------
+
+
+
+### Python Resources: 
+
+- how to think like a CS in python
+- Data Structures and algorithms in python
+- Hitch Hiker's Guide to python
+- SCIP in python: https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+- python env https://jacobian.org/2018/feb/21/python-environment-2018/
+- Cheatsheet https://github.com/gto76/python-cheatsheet?utm_source=hackernewsletter&utm_medium=email&utm_term=code </li
+
+
