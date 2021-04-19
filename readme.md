@@ -15,6 +15,10 @@
 
 ### Data Structures 
 
+- A data structure (DS) is a way of organizing data so that it can be used effectively.
+- An abstract data type (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. The interface does not give any specific details about how something should be implemented or in what programming language.
+- 
+
 
 | Algorithm                | Code      | 
 |--------------------------|-----------|
@@ -23,15 +27,12 @@
 | Queue                    |           |  
 | Priority Queue           |           |
 | Hashing                  |           |
+| Hash Indexes             |           |
+| SSTables and LSM-Trees   |           |
+| B-Trees                  |           |
+| Comparing B-Trees and LSM-Trees|           |
+| Other Indexing Structures|           |
 
-
-
-
-Hash Indexes
-SSTables and LSM-Trees
-B-Trees
-Comparing B-Trees and LSM-Trees
-Other Indexing Structures
 
 
 ### Graph Algorithms 
