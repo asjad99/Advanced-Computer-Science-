@@ -1,4 +1,97 @@
+> We are about to study the idea of a computational process. Computational processes are abstract beings that inhabit computers. As they evolve, processes manipulate other abstract things called data. The evolution of a process is directed by a pattern of rules called a program. People create programs to direct processes. In effect, we conjure the spirits of the computer with our spells. > > The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform. > > A computational process, in a correctly working computer, executes programs precisely and accurately. Thus, like the sorcerer's apprentice, novice programmers must learn to understand and to anticipate the consequences of their conjuring. > > —Abelson and Sussman, SICP (1993)
 
+
+### Python Resources: 
+
+- how to think like a CS in python
+- Data Structures and algorithms in python
+- Hitch Hiker's Guide to python
+- SCIP in python: https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+- python env https://jacobian.org/2018/feb/21/python-environment-2018/
+- Cheatsheet https://github.com/gto76/python-cheatsheet?utm_source=hackernewsletter&utm_medium=email&utm_term=code </li
+
+
+---------------------------
+
+### Data Structures 
+
+
+| Algorithm                | Code      | 
+|--------------------------|-----------|
+| LinkedList               |           |  
+| Stack                    |           |
+| Queue                    |           |  
+| Priority Queue           |           |
+| Hashing                  |           |
+
+
+
+
+Hash Indexes
+SSTables and LSM-Trees
+B-Trees
+Comparing B-Trees and LSM-Trees
+Other Indexing Structures
+
+
+### Graph Algorithms 
+
+Introduction to graph algorithms 
+      Storage and representation of graphs (networks) on a computer
+      Common graph theory problems
+      Breadth first search algorithm
+      Depth first search algorithm
+
+| Algorithm                | Code | 
+|--------------------------|------|
+| Dijkstra's algorithm     |      |
+| Topological sort                        |      |
+|  \Shortest/longest path on a acyclic graph                         |      |
+| Bellman Ford's algorithm                         |      |
+| Floyd-Warshall all pairs shortest path algorithm |     |
+| Finding bridges/articulation points             |     | 
+| Finding strongly connected components (Tarjan's) |   | 
+|  Travelling salesman problem (TSP)   |    |
+
+
+-----------------------------------------------------------------------------
+
+
+## Useful Data Algorithms for Building Data Products 
+
+A data product provides actionable information without exposing decision makers to the underlying
+data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
+
+
+### Data Mining Algorithms 
+
+| Algorithm                | Notebooks | Description |   |   |
+|--------------------------|-----------|-------------|---|---|
+| Assoicative Rule Mining  |           |             |   |   |
+| Alpha Miner              |           |             |   |   |
+| Flexible Heuristic Miner |           |             |   |   |
+
+###  Matrix Algorithms 
+
+| Latent Semantic Indexing                      | [Code] <https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3> |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Principal Component Analysis (PCA)            |                                                                                           |
+| Probabilistic Latent Semantic Indexing (PLSA) |                                                                                           |
+| Latent Dirchlet Allocation (LDA)              |                                                                                           |
+| Logistic Matrix Factorization                 |                                                                                           |
+| Restricted Boltzmann Machines                 |                                                                                           |
+| Collaborative Filtering                       |                                                                                           |
+| Compressive sensing                           |                                                                                           |
+| Linear and convex programming                 |                                                                                           |
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
 
 
 ## What is Computer Science? 
@@ -118,77 +211,3 @@ other hacks
     See Cracking the coding interview 
 
 ------------------------------------------------------------------------------------------------------------------------------
-
-### Useful data Structures 
-
-
-Hash Indexes
-SSTables and LSM-Trees
-B-Trees
-Comparing B-Trees and LSM-Trees
-Other Indexing Structures
-
-
-### Graph Algorithms 
-
-Introduction to graph algorithms 
-      Storage and representation of graphs (networks) on a computer
-      Common graph theory problems
-      Breadth first search algorithm
-      Depth first search algorithm
-
-| Algorithm                | Code | 
-|--------------------------|------|
-| Dijkstra's algorithm     |      |
-| Topological sort                        |      |
-|  \Shortest/longest path on a acyclic graph                         |      |
-| Bellman Ford's algorithm                         |      |
-| Floyd-Warshall all pairs shortest path algorithm |     |
-| Finding bridges/articulation points             |     | 
-| Finding strongly connected components (Tarjan's) |   | 
-|  Travelling salesman problem (TSP)   |    |
-
-
------------------------------------------------------------------------------
-
-
-## Useful Data Algorithms for Building Data Products 
-
-A data product provides actionable information without exposing decision makers to the underlying
-data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
-
-
-### Data Mining Algorithms 
-
-| Algorithm                | Notebooks | Description |   |   |
-|--------------------------|-----------|-------------|---|---|
-| Assoicative Rule Mining  |           |             |   |   |
-| Alpha Miner              |           |             |   |   |
-| Flexible Heuristic Miner |           |             |   |   |
-
-###  Matrix Algorithms 
-
-| Latent Semantic Indexing                      | [Code] <https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3> |
-|-----------------------------------------------|-------------------------------------------------------------------------------------------|
-| Principal Component Analysis (PCA)            |                                                                                           |
-| Probabilistic Latent Semantic Indexing (PLSA) |                                                                                           |
-| Latent Dirchlet Allocation (LDA)              |                                                                                           |
-| Logistic Matrix Factorization                 |                                                                                           |
-| Restricted Boltzmann Machines                 |                                                                                           |
-| Collaborative Filtering                       |                                                                                           |
-| Compressive sensing                           |                                                                                           |
-| Linear and convex programming                 |                                                                                           |
-
------------------------------------------------------------------------------
-
-
-
-### Python Resources: 
-
-- how to think like a CS in python
-- Data Structures and algorithms in python
-- Hitch Hiker's Guide to python
-- SCIP in python: https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-- python env https://jacobian.org/2018/feb/21/python-environment-2018/
-- Cheatsheet https://github.com/gto76/python-cheatsheet?utm_source=hackernewsletter&utm_medium=email&utm_term=code </li
-
