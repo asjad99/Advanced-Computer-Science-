@@ -162,9 +162,24 @@ And there is a fifth insight that links this abstract language to computers:
 5. The implementation insight: Algorithms can be carried out by physical devices
 ------------------------------------------------------------------------------------------------------------------------------
 
+## Big-0 Notation
+
+
+Big-0 Notation gives an upper bound of the complexity in the worst case, helping to quantify performance as the input size becomes arbitrarily large.
+
+
+Let $f$ be a function that describes the running time of a particular algorithm for an input of size n:
+$$
+\begin{array}{c}
+f(n)=7 \log (n)^{3}+15 n^{2}+2 n^{3}+8 \\
+0(f(n))=0\left(n^{3}\right)
+\end{array}
+$$
 
 
 
+
+------------------------------------------------------------------------------------------------------------------------------
 ## Problem Solving and Algorithms 
 
 "Problem-Solving is a holistic blend of complex skills and finely tuned attitudes. It requires a balance of intutiion and formal rigour, of resilience and creativity. It depends too on collaboration and the ability to see out feedback and act on it. And so much more: certainly too for a single test to do justice.'
