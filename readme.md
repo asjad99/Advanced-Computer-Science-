@@ -227,3 +227,10 @@ other hacks
     See Cracking the coding interview 
 
 ------------------------------------------------------------------------------------------------------------------------------
+## RESOURCES
+
+Philosophy of CS 
+Algorithms by Sadwick 
+https://computationbook.com/ 
+https://www.destroyallsoftware.com/screencasts
+https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
