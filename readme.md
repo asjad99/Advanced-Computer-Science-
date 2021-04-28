@@ -214,6 +214,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Alpha Miner              |           |             |   |   |
 | Flexible Heuristic Miner |           |             |   |   |
 
+
 ###  Matrix Algorithms 
 
 | Latent Semantic Indexing                      | [Code] <https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3> |
@@ -226,6 +227,19 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Collaborative Filtering                       |                                                                                           |
 | Compressive sensing                           |                                                                                           |
 | Linear and convex programming                 |                                                                                           |
+
+
+
+| Area                                      | Topic | 
+|-----------------------------------------------|-----------|
+| High-Dimensional Space |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
+|**Linear-Algebraic Techniques:**|  PCA
+|                                | [Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
+| **Spectral Graph Theory**      |            |
+| **Sampling and Estimation**    |            |
+| **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
+
+
 
 -----------------------------------------------------------------------------
 
