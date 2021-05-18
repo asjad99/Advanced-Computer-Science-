@@ -13,11 +13,11 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 | Algorithm                | Code      | 
 |--------------------------|-----------|
-| LinkedList               |           |  
-| Stack                    |           |
-| Queue                    |           |  
+| LinkedList               |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/linkedlist.py)        |  
+| Stack                    |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/stack.py)         |
+| Queue                    |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/mycode.py)         |  
 | Priority Queue           |           |
-| Hashing                  |           |
+| Hashing                  | [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/hastable.py)          |
 | Hash Indexes             |           |
 | SSTables and LSM-Trees   |           |
 | B-Trees                  |           |
@@ -27,11 +27,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 #### Graph Algorithms 
 
-Introduction to graph algorithms 
-      Storage and representation of graphs (networks) on a computer
-      Common graph theory problems
-      Breadth first search algorithm
-      Depth first search algorithm
+
 
 | Algorithm                | Code | 
 |--------------------------|------|
@@ -43,7 +39,11 @@ Introduction to graph algorithms
 | Finding bridges/articulation points             |     | 
 | Finding strongly connected components (Tarjan's) |   | 
 |  Travelling salesman problem (TSP)   |    |
-
+|      Introduction to graph algorithms | |
+|      Storage and representation of graphs (networks) on a computer |  |
+|      Common graph theory problems |     | 
+|      Breadth first search algorithm |   |
+|      Depth first search algorithm |     |
 
 #### Data Mining/Matrix Algorithms  Algorithms 
 
