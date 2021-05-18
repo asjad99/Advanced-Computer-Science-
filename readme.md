@@ -47,8 +47,6 @@ Introduction to graph algorithms
 
 #### Data Mining/Matrix Algorithms  Algorithms 
 
-
-
 |   Algorithms                   | Code |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------|
 | Principal Component Analysis (PCA)            |                                                                                           |
