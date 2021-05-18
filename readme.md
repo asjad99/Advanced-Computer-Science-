@@ -11,7 +11,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 - An abstract data type (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. The interface does not give any specific details about how something should be implemented or in what programming language.
 
 
-| Algorithm                | Code      | 
+| Algorithm                | Implementation      | 
 |--------------------------|-----------|
 | LinkedList               |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/linkedlist.py)        |  
 | Stack                    |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/stack.py)         |
@@ -29,7 +29,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 
 
-| Algorithm                | Code | 
+| Algorithm                | Implementation | 
 |--------------------------|------|
 | Dijkstra's algorithm     |      |
 | Topological sort                        |      |
@@ -47,7 +47,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 #### Data Mining/Matrix Algorithms  Algorithms 
 
-|   Algorithms                   | Code |
+|   Algorithms                   | Implementation |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------|
 | Principal Component Analysis (PCA)            |                                                                                           |
 | Probabilistic Latent Semantic Indexing (PLSA) |                                                                                           |
@@ -61,7 +61,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Flexible Heuristic Miner                      |                                                                                           |                
 
 
-| Area                                      | Topic | 
+| Area                                      | Implementation | 
 |-----------------------------------------------|-----------|
 | High-Dimensional Space |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
 |**Linear-Algebraic Techniques:**|  PCA
@@ -69,6 +69,23 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | **Spectral Graph Theory**      |            |
 | **Sampling and Estimation**    |            |
 | **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
+
+
+
+### ML/AI Bare-Bones
+
+Implementing Machine Learning and AI Concepts from scratch:
+
+
+| Topic                          | Code | 
+---------------------------------|------|
+| Generalization and Regularization|     |
+|  Hybrid-CI-System              | [Code](https://github.com/asjad99/Hybrid-CI-System) |
+| Traveling Salesmen and gentic algorithms |  [Code](https://github.com/asjad99/Genetic-Algorithms) |  
+| Neural Network                 |  [Code](https://github.com/asjad99/MLP) -A multi-layer Neural Network to solve the two spiral problem|
+
+https://github.com/eriklindernoren/NapkinML
+https://github.com/eriklindernoren/ML-From-Scratch
 
 
 -----------------------------------------------------------------------------
