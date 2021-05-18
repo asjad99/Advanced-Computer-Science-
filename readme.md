@@ -27,8 +27,6 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 #### Graph Algorithms 
 
-
-
 | Algorithm                | Implementation | 
 |--------------------------|------|
 | Dijkstra's algorithm     |      |
@@ -50,6 +48,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 |   Algorithms                   | Implementation |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------|
+| Scalable SVD                                  |      [Code](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)  |
 | Principal Component Analysis (PCA)            |                                                                                           |
 | Probabilistic Latent Semantic Indexing (PLSA) |                                                                                           |
 | Latent Semantic Indexing                      |     [Code](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)              |
@@ -61,14 +60,6 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Alpha Miner                                   |                                                                                           |             
 | Flexible Heuristic Miner                      |                                                                                           |                
 | Know-How Mining |  [Code](https://github.com/asjad99/know-how-mining)         |  
-
-
-| Area                                      | Implementation | 
-|-----------------------------------------------|-----------|
-|                                | [Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
-| **Spectral Graph Theory**      |            |
-
-
 
 ### ML/AI Bare-Bones
 
@@ -86,6 +77,7 @@ https://github.com/eriklindernoren/NapkinML
 https://github.com/eriklindernoren/ML-From-Scratch
 
 
+### Distrubuted Computing: 
 
 | **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
 
