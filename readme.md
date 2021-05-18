@@ -9,7 +9,6 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 - A data structure (DS) is a way of organizing data so that it can be used effectively.
 - An abstract data type (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. The interface does not give any specific details about how something should be implemented or in what programming language.
-- 
 
 
 | Algorithm                | Code      | 
@@ -25,8 +24,6 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Comparing B-Trees and LSM-Trees|           |
 | Other Indexing Structures|           |
 
-
------------------------------------------------------------------------------
 
 #### Graph Algorithms 
 
@@ -48,32 +45,22 @@ Introduction to graph algorithms
 |  Travelling salesman problem (TSP)   |    |
 
 
------------------------------------------------------------------------------
-#### Data Mining Algorithms 
-
-| Algorithm                | Notebooks | Description |   |   |
-|--------------------------|-----------|-------------|---|---|
-| Assoicative Rule Mining  |           |             |   |   |
-| Alpha Miner              |           |             |   |   |
-| Flexible Heuristic Miner |           |             |   |   |
+#### Data Mining/Matrix Algorithms  Algorithms 
 
 
------------------------------------------------------------------------------
-####  Matrix Algorithms 
 
-| Latent Semantic Indexing                      | [Code] <https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3> |
+|   Algorithms                   | Code |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------|
 | Principal Component Analysis (PCA)            |                                                                                           |
 | Probabilistic Latent Semantic Indexing (PLSA) |                                                                                           |
-| Latent Dirchlet Allocation (LDA)              |                                                                                           |
+| Latent Semantic Indexing                      |     [Code](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)              |
 | Logistic Matrix Factorization                 |                                                                                           |
-| Restricted Boltzmann Machines                 |                                                                                           |
 | Collaborative Filtering                       |                                                                                           |
 | Compressive sensing                           |                                                                                           |
 | Linear and convex programming                 |                                                                                           |
-
-
------------------------------------------------------------------------------
+| Assoicative Rule Mining                       |                                                                                           |           
+| Alpha Miner                                   |                                                                                           |             
+| Flexible Heuristic Miner                      |                                                                                           |                
 
 
 | Area                                      | Topic | 
@@ -84,7 +71,6 @@ Introduction to graph algorithms
 | **Spectral Graph Theory**      |            |
 | **Sampling and Estimation**    |            |
 | **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
-
 
 
 -----------------------------------------------------------------------------
