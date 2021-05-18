@@ -44,6 +44,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 |      Common graph theory problems |     | 
 |      Breadth first search algorithm |   |
 |      Depth first search algorithm |     |
+| Spectral Graph Theory |   | 
 
 #### Data Mining/Matrix Algorithms  Algorithms 
 
@@ -59,16 +60,13 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Assoicative Rule Mining                       |                                                                                           |           
 | Alpha Miner                                   |                                                                                           |             
 | Flexible Heuristic Miner                      |                                                                                           |                
+| Know-How Mining |  [Code](https://github.com/asjad99/know-how-mining)         |  
 
 
 | Area                                      | Implementation | 
 |-----------------------------------------------|-----------|
-| High-Dimensional Space |  [Know how miner using word2vec](https://github.com/asjad99/know-how-mining)         |  
-|**Linear-Algebraic Techniques:**|  PCA
 |                                | [Scalable implementation of SVD in Apache Spark](https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3)
 | **Spectral Graph Theory**      |            |
-| **Sampling and Estimation**    |            |
-| **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
 
 
 
@@ -87,6 +85,9 @@ Implementing Machine Learning and AI Concepts from scratch:
 https://github.com/eriklindernoren/NapkinML
 https://github.com/eriklindernoren/ML-From-Scratch
 
+
+
+| **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
 
 -----------------------------------------------------------------------------
 
