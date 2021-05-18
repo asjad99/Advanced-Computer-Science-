@@ -1,8 +1,10 @@
 #### Intro to Computer Science: 
 
-[What is Computer Science?](https://github.com/asjad99/algorithms-GYM/tree/master)
+Algorithms in classic computer science and Relevant for building data products 
 
-A data product provides actionable information without exposing decision makers to the underlying
+- See [What is Computer Science?](https://github.com/asjad99/algorithms-GYM/tree/master)
+
+- A data product provides actionable information without exposing decision makers to the underlying
 data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. 
 
 #### Data Structures 
