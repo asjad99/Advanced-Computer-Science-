@@ -1,12 +1,11 @@
-### Intro to Computer Science: 
+#### Intro to Computer Science: 
 
 [What is Computer Science?](https://github.com/asjad99/algorithms-GYM/tree/master)
 
-------------------------------------------------------------------------------------------------------------------------------
+A data product provides actionable information without exposing decision makers to the underlying
+data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. 
 
-## Interesting Problems  
-
-### Data Structures 
+#### Data Structures 
 
 - A data structure (DS) is a way of organizing data so that it can be used effectively.
 - An abstract data type (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. The interface does not give any specific details about how something should be implemented or in what programming language.
@@ -29,7 +28,7 @@
 
 -----------------------------------------------------------------------------
 
-### Graph Algorithms 
+#### Graph Algorithms 
 
 Introduction to graph algorithms 
       Storage and representation of graphs (networks) on a computer
@@ -50,20 +49,7 @@ Introduction to graph algorithms
 
 
 -----------------------------------------------------------------------------
-
-
-## Useful Data Algorithms for Building Data Products 
-
-A data product provides actionable information without exposing decision makers to the underlying
-data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. For more details see [Rise of data Products](https://asjadkhan.ghost.io/ghost/#/site) 
-
-
-
------------------------------------------------------------------------------
-
-
-
-### Data Mining Algorithms 
+#### Data Mining Algorithms 
 
 | Algorithm                | Notebooks | Description |   |   |
 |--------------------------|-----------|-------------|---|---|
@@ -73,9 +59,7 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 
 
 -----------------------------------------------------------------------------
-
-
-###  Matrix Algorithms 
+####  Matrix Algorithms 
 
 | Latent Semantic Indexing                      | [Code] <https://gist.github.com/asjad99/e87a695df10b0859ee943b8e661f0fc3> |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------|
