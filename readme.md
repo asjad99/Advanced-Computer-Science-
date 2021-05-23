@@ -96,4 +96,6 @@ https://github.com/eriklindernoren/ML-From-Scratch
 - Cheatsheet https://github.com/gto76/python-cheatsheet?utm_source=hackernewsletter&utm_medium=email&utm_term=code </li
 
 
-
+Algorithms Courses:
+ - Algorithmic Engineering https://people.csail.mit.edu/jshun/6886-s21/
+ - CS168 Stanford 
