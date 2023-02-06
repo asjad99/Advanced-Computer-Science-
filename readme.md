@@ -4,14 +4,8 @@
 
 Algorithms in classic computer science and Relevant for building data products 
 
-- See [What is Computer Science?](https://github.com/asjad99/algorithms-GYM/tree/master)
-
 
 #### Data Structures 
-
-- A data structure (DS) is a way of organizing data so that it can be used effectively.
-- An abstract data type (ADT) is an abstraction of a data structure which provides only the interface to which a data structure must adhere to. The interface does not give any specific details about how something should be implemented or in what programming language.
-
 
 | Algorithm                | Implementation      | 
 |--------------------------|-----------|
