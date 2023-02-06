@@ -1,3 +1,5 @@
+### 100 Interesting Algorithms 
+
 #### Intro to Computer Science: 
 
 Algorithms in classic computer science and Relevant for building data products 
