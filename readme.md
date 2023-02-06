@@ -1,8 +1,7 @@
-### 100 Interesting Algorithms 
+## 100 Interesting Algorithms 
 
 #### Julia Basics 
 
-Algorithms in classic computer science and Relevant for building data products 
 
 
 #### Data Structures 
