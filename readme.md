@@ -1,13 +1,11 @@
 ### 100 Interesting Algorithms 
 
-#### Intro to Computer Science: 
+#### Julia Basics 
 
 Algorithms in classic computer science and Relevant for building data products 
 
 - See [What is Computer Science?](https://github.com/asjad99/algorithms-GYM/tree/master)
 
-- A data product provides actionable information without exposing decision makers to the underlying
-data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. 
 
 #### Data Structures 
 
@@ -61,13 +59,15 @@ data or analytics. Examples include: Movie Recommendations, Production Process I
 | Compressive sensing                           |                                                                                           |
 | Linear and convex programming                 |                                                                                           |
 | Assoicative Rule Mining                       |                                                                                           |           
-| Alpha Miner                                   |                                                                                           |             
-| Flexible Heuristic Miner                      |                                                                                           |                
-| Know-How Mining |  [Code](https://github.com/asjad99/know-how-mining)         |  
+| Alpha Miner                                   |                                                                                           |           
+| Flexible Heuristic Miner                      |                                                                                           |           
 
-### ML/AI Bare-Bones
 
-Implementing Machine Learning and AI Concepts from scratch:
+### AI algorithms for data products 
+
+- A data product provides actionable information without exposing decision makers to the underlying
+data or analytics. Examples include: Movie Recommendations, Production Process Improvements, Targeted Advertising etc. 
+
 
 
 | Topic                          | Code | 
@@ -81,13 +81,8 @@ https://github.com/eriklindernoren/NapkinML
 https://github.com/eriklindernoren/ML-From-Scratch
 
 
-### Distrubuted Computing: 
 
-| **Privacy Preserving Computational** | Privacy Preserving Mining of geographically dispersed event logs |
-
------------------------------------------------------------------------------
-
-
+<!---
 ### Python Resources: 
 
 - how to think like a CS in python
@@ -101,3 +96,5 @@ https://github.com/eriklindernoren/ML-From-Scratch
 Algorithms Courses:
  - Algorithmic Engineering https://people.csail.mit.edu/jshun/6886-s21/
  - CS168 Stanford 
+ -->
+
