@@ -16,7 +16,7 @@ Myvar2 = 'a'
 
 a = [1 2 3] #aka row vector 
 
-
+print(a[1])
 
 #-----------------------------
 #-----------------------------
@@ -29,7 +29,7 @@ a = [1 2 3] #aka row vector
 a = 3
 
 if a > 1
-    println("yes")
+    println("---yes--")
 end
 
 #Logical operators

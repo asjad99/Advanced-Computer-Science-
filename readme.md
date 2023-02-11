@@ -1,8 +1,6 @@
-## 100 Interesting Algorithms 
+## Data-Centric Computing with Julia 
 
-#### Julia Basics 
 
-hello world
 
 #### Data Structures 
 
@@ -18,6 +16,19 @@ hello world
 | B-Trees                  |           |
 | Comparing B-Trees and LSM-Trees|           |
 | Other Indexing Structures|           |
+
+
+#### Data Science
+
+#### Classic Algorithms 
+
+- Fibonaci Series
+- Quick Sort 
+
+
+#### Computational Imaging 
+
+
 
 
 #### Graph Algorithms 
