@@ -1,7 +1,32 @@
-   "[The Euclidean algorithm] is the granddaddy of all algorithms, because it is the oldest nontrivial algorithm that has survived to the present day." - Donald Knuth, The Art of Computer Programming
+### Useful Github Repos:
 
 
+1. Basics: https://github.com/n3times/jupyter
+2. Programmers intro to mathmatics: https://github.com/pim-book/programmers-introduction-to-mathematics
+3. programming books: https://github.com/cs-books/influential-cs-books
 
+Advanced: 
+1. Machine Learning Algorithms in Depth : https://github.com/vsmolyakov/ml_algo_in_depth
+2. Pytudes: https://github.com/norvig/pytudes
+
+
+5. The Algorithms: https://github.com/TheAlgorithms/Python
+
+-------------------------------------------------
+
+
+| Algorithm                | Implementation      | 
+|--------------------------|-----------|
+| LinkedList               |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/linkedlist.py)        |  
+| Stack                    |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/stack.py)         |
+| Queue                    |  [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/mycode.py)         |  
+| Priority Queue           |           |
+| Hashing                  | [Code](https://github.com/asjad99/algorithms-GYM/blob/master/data_structures/hastable.py)          |
+| Hash Indexes             |           |
+| SSTables and LSM-Trees   |           |
+| B-Trees                  |           |
+| Comparing B-Trees and LSM-Trees|           |
+| Other Indexing Structures|           
 
 ### Graph Algorithms 
 
