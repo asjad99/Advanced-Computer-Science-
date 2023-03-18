@@ -6,6 +6,7 @@ https://github.com/asjad99/Machine-Learning-GYM
 ## Process Analytics with Python
 
 https://github.com/asjad99/Process_analytics_GYM 
+https://github.com/asjad99/Process-mining-julia 
 
 ### Data Engineering
 
