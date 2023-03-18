@@ -1,5 +1,17 @@
-## Data-Centric Computing with Julia 
+## Machine Learning with Python
 
+https://github.com/asjad99/Machine-Learning-GYM
+
+
+## Process Analytics with Python
+
+https://github.com/asjad99/Process_analytics_GYM 
+
+### Data Engineering
+
+https://github.com/asjad99/data-engineering-ml-ops
+
+## Programming with Julia 
 
 #### Warm-up - Getting Started 
 
