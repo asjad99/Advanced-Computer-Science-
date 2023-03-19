@@ -19,7 +19,7 @@ Later on (on separate pages) we may add details for understanding the high-level
 - [Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Process Analytics](https://github.com/asjad99/Process_analytics_GYM )
-- [Data Science](https://github.com/asjad99/data-engineering-ml-ops)
+- [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
 
 
 
