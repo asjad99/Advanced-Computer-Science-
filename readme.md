@@ -18,6 +18,7 @@ Later on (on separate pages) we may add details for understanding the high-level
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [Process Analytics](https://hitchhikerguide.gitbook.io/process-analytics/)
 - [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
+- [Accelerating Scientific Discovery]()
 
 
 
