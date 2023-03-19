@@ -13,55 +13,12 @@ even to the well-trained computer scientist(i.e they are not found in traditiona
 Later on (on separate pages) we may add details for understanding the high-level theoretical intuitions and principles underlying the algorithms we discuss, as well as developing a concrete understanding of when and how to implement and apply the algorithms.
 
 
+### Areas
 
-
-## Data Science
-
-Data science is the process of formulating a quantitative question that can beanswered with data, collecting and cleaning the data, analyzing the data, andcommunicating the answer to the question to a relevant audience. If we do want aconcise definition, the following seems to be reasonable:Data science is the application of computational and statistical techniques toaddress or gain insight into some problem in the real world
-
-
-## Machine Learning with Python
-
-https://github.com/asjad99/Machine-Learning-GYM
-
-
-## Process Analytics with Python
-
-https://github.com/asjad99/Process_analytics_GYM 
-https://github.com/asjad99/Process-mining-julia 
-
-### Data Engineering
-
-https://github.com/asjad99/data-engineering-ml-ops
-
-## Programming with Julia 
-
-#### Warm-up - Getting Started 
-
-- Fibonaci Series
-- Riemman Zeta function 
-- Euler Equation
-- GCG algorithm
-- Bubble Sort 
-- Quick Sort 
-
-
-#### Data Structures 
-
-- Linked_List 
-
-
-#### Data Science
-
-- Basic Visualization 
-- PCA 
-- Random Variables  
-
-
-#### Computational Imaging 
+- [Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
+- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [Process Analytics](https://github.com/asjad99/Process_analytics_GYM )
+- [Data Science](https://github.com/asjad99/data-engineering-ml-ops)
 
 
 
-#### Graph Algorithms 
-
-## Data-Centric Computing for Scientific Discovery 
