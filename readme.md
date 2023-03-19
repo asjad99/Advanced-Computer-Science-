@@ -16,7 +16,7 @@ Later on (on separate pages) we may add details for understanding the high-level
 - [Data Algorithms]()
 - [Process-Oriented Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [Process Analytics](https://hitchhikerguide.gitbook.io/process-analytics/)
+- [Programming Paradigms]()
 - [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
 - [Accelerating Scientific Discovery]()
 
