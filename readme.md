@@ -14,7 +14,7 @@ This repository aims to explore enduring concepts and ideas that have withstood 
 - [Process-Oriented Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
 - [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
 - [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
-- [Accelerating Scientific Discovery]()
+- [Accelerating Scientific Discovery](https://github.com/asjad99/AGI)
 - [Programming Paradigms for AI](https://github.com/asjad99/programming-paradigms-)
 
 
