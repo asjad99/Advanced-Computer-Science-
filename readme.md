@@ -18,4 +18,40 @@ This repository aims to explore enduring concepts and ideas that have withstood 
 - [Programming Paradigms for AI](https://github.com/asjad99/programming-paradigms-)
 
 
+### Topics: 
 
+
+- matrices
+- stencils
+- univariate/multivariate functions
+- vector calculus
+- matrix calculus
+- sequence convergence
+- principal component analysis
+- dimensionality reduction
+- matrix rank
+- projections, rotations
+- eigenvalues
+- singular value decomposition
+- outliers, noise
+- data bulk, data center
+- statistics
+- correlation
+- random sampling
+- probability density function
+- monte carlo methods
+- random walks
+- continuous limit
+- ordinary differential equations
+- curve fitting
+- partial differential equations
+- finite differences
+- discretization
+- bifurcations
+- hysteresis
+- optimization
+- gradient descent
+- global optimization
+- constrained optimization
+- nonlinear optimization
+- inverse modeling
