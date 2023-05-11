@@ -10,15 +10,21 @@ This repository aims to explore enduring concepts and ideas that have withstood 
 
 ### Areas
 
-- [Data Algorithms]()
-- [Process-Oriented Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
-- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
-- [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
-- [AGI and Accelerating Scientific Discovery](https://github.com/asjad99/AGI)
-- [Programming Paradigms for AI](https://github.com/asjad99/programming-paradigms-)
+Covers the following: 
+
+- Essential Data Literacy: A Primer
+- Building Blocks of Data Science
+- Understanding Statistics and Probability from DS Prespective 
+- Practical Data Science Tools 
+- Exploring Computational Thought and Modern Algorithmic Toolbox (with Julia)
+- A/B Testing 
+- Product Analytics 
+- The Data Scientist's Field Guide: Navigating the Landscape of Data Science
+- Process-Oriented Data Science
 
 
-### Topics: 
+
+### Topics: (move this) 
 
 
 - matrices
@@ -55,3 +61,11 @@ This repository aims to explore enduring concepts and ideas that have withstood 
 - constrained optimization
 - nonlinear optimization
 - inverse modeling
+
+
+- [Data Algorithms]()
+- [Process-Oriented Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
+- [Machine Learning](https://github.com/asjad99/Machine-Learning-GYM)
+- [RL and Sequential Decision Making](https://github.com/asjad99/Reinforcement-Learning)
+- [AGI and Accelerating Scientific Discovery](https://github.com/asjad99/AGI)
+- [Programming Paradigms for AI](https://github.com/asjad99/programming-paradigms-)
