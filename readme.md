@@ -8,24 +8,17 @@ Today, there is a fundamental shift towards a wide range of applications. Numero
 This repository aims to explore enduring concepts and ideas that have withstood the test of time. We investigate intriguing and relatively straightforward notions that form the foundation for creating data products. These concepts are, to some extent, non-obvious, even to well-trained computer scientists, as they are not typically found in traditional computer science textbooks. We will explore mathematically rigorous definitions for some of the central problems, ideas, and algorithms for building data products.
 
 
-### Areas
+### Areas - Building Blocks of Data Science
 
 Covers the following: 
 
+
+###  Beginner 
+
 - Essential Data Literacy: A Primer
-- Building Blocks of Data Science
 - Understanding Statistics and Probability from DS Prespective 
-- Practical Data Science Tools 
-- Exploring Computational Thought and Modern Algorithmic Toolbox (with Julia)
-- A/B Testing 
-- Product Analytics 
-- The Data Scientist's Field Guide: Navigating the Landscape of Data Science
-- Process-Oriented Data Science
 
-
-
-### Topics: (move this) 
-
+### Intermediate
 
 - matrices
 - stencils
@@ -40,8 +33,6 @@ Covers the following:
 - eigenvalues
 - singular value decomposition
 - outliers, noise
-- data bulk, data center
-- statistics
 - correlation
 - random sampling
 - probability density function
@@ -62,7 +53,18 @@ Covers the following:
 - nonlinear optimization
 - inverse modeling
 
+### Advanced:  
 
-- [Data Algorithms]()
+- CS168
+- Foundations of data sceince 
+
+
+
+### MISC - Practical Data Science Tools 
+
+
+- The Data Scientist's Field Guide: Navigating the Landscape of Data Science
+- A/B Testing 
+- Product Analytics 
 - [Process-Oriented Data Science](https://github.com/asjad99/Process_analytics_GYM/blob/master/docs/index.md)
 
