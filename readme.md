@@ -7,9 +7,6 @@ Today, there is a fundamental shift towards a wide range of applications. Numero
 
 This repository aims to explore enduring concepts and ideas that have withstood the test of time. We investigate intriguing and relatively straightforward notions that form the foundation for creating data products. These concepts are, to some extent, non-obvious, even to well-trained computer scientists, as they are not typically found in traditional computer science textbooks. We will explore mathematically rigorous definitions for some of the central problems, ideas, and algorithms for building data products.
 
-
-### Areas - Building Blocks of Data Science
-
 Covers the following: 
 
 1. Philosophy of Computer Science 
