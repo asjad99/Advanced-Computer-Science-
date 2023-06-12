@@ -12,6 +12,20 @@ This repository aims to explore enduring concepts and ideas that have withstood 
 
 Covers the following: 
 
+1. Philosophy of Computer Science 
+2. Set and Matrice
+3. Algorithmic Graph problems and theory 
+    1. Leet Code
+4. Probability 
+5. Data Science Problems 
+    1. Julia 
+    2. CS168
+    3. Advanced Spark  
+6. Machine Learning
+    1. predictive maintenance
+7. Statistics 
+8. Sequential Decision Making and RL
+9. Multi-agent systems 
 
 ###  Beginner 
 
